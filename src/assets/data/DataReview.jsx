@@ -42,7 +42,11 @@ const reviewlItems = [
         name: "Yamada Jun",
         tittle: "Japanto University",
         message: "Platform ini telah meningkatkan produktivitas lahan kami secara signifikan.",
+<<<<<<< HEAD
         image: "1.jpg",
+=======
+        image: "2.jpg",
+>>>>>>> de7b9bdac4278f64e58f668aee5e72d25d13bcd8
         rating: 5
     },
     {
