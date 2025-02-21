@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import reviewlItems from "../assets/data/DataReview";
-import { icons } from '../assets/icons';
+import { icons } from '../assets/Icons';
 
 const imageFiles = import.meta.glob('../assets/image/review/*.{jpg,png}', { eager: true });
 const images = Object.fromEntries(

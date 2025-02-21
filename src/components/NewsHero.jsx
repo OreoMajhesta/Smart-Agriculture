@@ -1,4 +1,4 @@
-import { icons } from '../assets/icons';
+import { icons } from "../assets/Icons";
 
 const imageFiles = import.meta.glob('../assets/image/news/*.{jpg,png}', { eager: true });
 const images = Object.fromEntries(
